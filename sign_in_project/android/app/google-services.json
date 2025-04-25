@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591436105536",
+    "project_id": "blocproject-cef27",
+    "storage_bucket": "blocproject-cef27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591436105536:android:6092ccfe17ed5644c51ca5",
+        "android_client_info": {
+          "package_name": "com.example.sign_in_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuRtlwpR8Z_lG50ha_8XUh7jwXqeLuWN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
